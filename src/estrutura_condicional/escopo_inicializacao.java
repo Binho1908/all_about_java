@@ -1,6 +1,6 @@
 package estrutura_condicional;
 
-import java.util.Scanner;
+
 
 public class escopo_inicializacao {
 	
